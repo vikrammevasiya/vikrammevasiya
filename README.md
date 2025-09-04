@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | 8+ Years of Experience | Laravel, React, PHP, NodeJS**
 
-Welcome! I’m Vikram, a passionate full-stack developer with over 8 years of hands-on experience. As a full-time freelancer, I love helping businesses bring their ideas to life—by building powerful, scalable, and user-friendly web applications.
+Welcome! I’m Vikram, a passionate full-stack developer with over 8 years of hands-on experience. I love helping businesses bring their ideas to life by building powerful, scalable, and user-friendly web applications.
 
 > _"My priority is simple: deliver clean, bug-free code on time."_
 
