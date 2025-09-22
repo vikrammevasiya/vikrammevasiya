@@ -43,8 +43,6 @@ A robust solution for hosting virtual events—featuring Schedules, On-Demand & 
 
 ### [Khissu – Latest News & Videos](https://khissu.com) (Laravel, React Native)
 Developed this mobile & web app from scratch for live news and updates. Integrated push notifications (Firebase), ads (AdMob & Google), and more.
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.app.khissu)
-- [Website](https://khissu.com)
 
 ---
 
