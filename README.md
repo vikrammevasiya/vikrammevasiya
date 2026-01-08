@@ -36,6 +36,11 @@ A comprehensive healthcare solution that combines security, compliance, managed 
 
 ---
 
+### Port Clearance & Freight Forwarding System (Laravel)
+A digital operations platform built for a freight-forwarding company to modernise port-clearance workflows. The system replaces decades of Excel-based processes with a centralised solution for container tracking, documentation management, and ministry invoice generation. Developed in Laravel, the platform improves operational accuracy, reduces manual effort, and enables the business to scale efficiently while meeting tight port-clearance deadlines.
+
+---
+
 ### Learning Management System (Symfony, React)
 An enterprise platform for corporate learning and training, packed with features like Catalog, Content, Missions, Live Sessions, Community Feed, Rewards, Messaging, and Leaderboards. I built the React frontend from scratch and contributed to backend features such as Polls, Surveys, Catalog, and Reports.
 
