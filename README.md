@@ -31,6 +31,11 @@ Whether you’re a startup or an established business, I bring both technical ex
 
 ## 🏆 Featured Projects
 
+### Healthcare Security & Compliance Platform (Laravel, Angular)
+A comprehensive healthcare solution that combines security, compliance, managed cloud services, and consulting capabilities into a single platform. The system is designed to help healthcare organisations improve data protection, meet regulatory requirements, and strengthen operational resilience. Built with Laravel and Angular, the platform supports secure workflows, compliance assessments, cloud management, and risk mitigation to ensure organisations remain secure, compliant, and future-ready.
+
+---
+
 ### Learning Management System (Symfony, React)
 An enterprise platform for corporate learning and training, packed with features like Catalog, Content, Missions, Live Sessions, Community Feed, Rewards, Messaging, and Leaderboards. I built the React frontend from scratch and contributed to backend features such as Polls, Surveys, Catalog, and Reports.
 
