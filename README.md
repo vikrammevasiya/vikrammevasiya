@@ -36,7 +36,7 @@ An enterprise platform for corporate learning and training, packed with features
 
 ---
 
-### Virtual Event Application (Symfony, React)
+### Virtual Event Application (Laravel, React)
 A robust solution for hosting virtual events—featuring Schedules, On-Demand & Live Sessions, Community Feed, Virtual Environments, Networking, Messaging, and Leaderboards. Created reusable npm components and enabled dynamic branding configuration from the backend.
 
 ---
