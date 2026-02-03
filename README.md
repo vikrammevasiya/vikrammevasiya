@@ -36,7 +36,7 @@ A comprehensive healthcare solution that combines security, compliance, managed 
 
 ---
 
-### Port Clearance & Freight Forwarding System (Laravel)
+### Port Clearance & Freight Forwarding System (Laravel, React)
 A digital operations platform built for a freight-forwarding company to modernise port-clearance workflows. The system replaces decades of Excel-based processes with a centralised solution for container tracking, documentation management, and ministry invoice generation. Developed in Laravel, the platform improves operational accuracy, reduces manual effort, and enables the business to scale efficiently while meeting tight port-clearance deadlines.
 
 ---
@@ -61,7 +61,7 @@ Designed and built modules for attendance tracking, communication (email/SMS), r
 
 ---
 
-### LoyaltyProgram (Yii, Laravel)
+### LoyaltyProgram (Yii, Laravel, React)
 A cutting-edge SaaS platform for building loyalty programs and deepening channel relationships. Empowering brands to connect and grow through innovative loyalty solutions.
 
 ---
