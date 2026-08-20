@@ -2,7 +2,7 @@
 
 **Senior Full Stack Engineer | AI-Powered Applications | SaaS Architecture | Next.js | Node.js | Laravel | React | TypeScript**
 
-Welcome! I’m Vikram, a Senior Full Stack Engineer with 9+ years of experience building scalable SaaS platforms, AI-powered applications, APIs, and high-performance systems for startups and enterprises.
+Welcome! I’m Vikram, a Senior Full Stack Engineer with 8+ years of experience building scalable SaaS platforms, AI-powered applications, APIs, and high-performance systems for startups and enterprises.
 
 I specialize in transforming ideas into production-ready products — from architecture and backend systems to modern frontend experiences, cloud infrastructure, and AI integrations.
 
