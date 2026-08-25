@@ -61,7 +61,7 @@ I don't just write code — I help design solutions, make technical decisions, a
 
 ## 🏆 Featured Projects
 
-### 📄 RAG Document Q&A
+### [📄 RAG Document Q&A](https://rag-document-qa-gold.vercel.app/)
 Built an AI-powered document Q&A platform using Retrieval-Augmented Generation (RAG), semantic search, vector embeddings, grounded responses, and source references with Next.js, FastAPI, PostgreSQL, Supabase, pgvector, and OpenAI/GeminiAI.
 
 ### 🤖 AI-Powered SaaS Platform
