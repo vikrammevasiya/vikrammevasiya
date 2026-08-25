@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vikram Mevasiya
 
-**Senior Full Stack Engineer | AI-Powered Applications | SaaS Architecture | Next.js | Node.js | Laravel | React | TypeScript**
+**Senior Full Stack Engineer | AI-Powered Applications | RAG-based Applications | SaaS Architecture | Next.js | Node.js | Laravel | React | TypeScript**
 
 Welcome! I’m Vikram, a Senior Full Stack Engineer with 8+ years of experience building scalable SaaS platforms, AI-powered applications, APIs, and high-performance systems for startups and enterprises.
 
@@ -60,6 +60,9 @@ I don't just write code — I help design solutions, make technical decisions, a
 ---
 
 ## 🏆 Featured Projects
+
+### 📄 RAG Document Q&A
+Built an AI-powered document Q&A platform using Retrieval-Augmented Generation (RAG), semantic search, vector embeddings, grounded responses, and source references with Next.js, FastAPI, PostgreSQL, Supabase, pgvector, and OpenAI/GeminiAI.
 
 ### 🤖 AI-Powered SaaS Platform
 Built scalable SaaS architecture with AI-driven workflows, intelligent automation, API integrations, and modern frontend experience using Next.js, Node.js, TypeScript, and cloud infrastructure.
