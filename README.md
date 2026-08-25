@@ -64,6 +64,9 @@ I don't just write code — I help design solutions, make technical decisions, a
 ### 📄 [RAG Document Q&A](https://rag-document-qa-gold.vercel.app/)
 Built an AI-powered document Q&A platform using Retrieval-Augmented Generation (RAG), semantic search, vector embeddings, grounded responses, and source references with Next.js, FastAPI, PostgreSQL, Supabase, pgvector, and OpenAI/GeminiAI.
 
+### 🐾 [Pet Care & Affiliate SaaS Platform](https://planipets.com)
+Built a scalable pet-care SaaS ecosystem with Stripe recurring billing, subscription management, payment workflows, and webhook synchronization, alongside a loyalty and affiliate platform with client attribution, reward wallets, referral tracking, automated rewards, and Super Boost mechanics using Laravel, PHP, React, Stripe, and cloud infrastructure.
+
 ### 🤖 AI-Powered SaaS Platform
 Built scalable SaaS architecture with AI-driven workflows, intelligent automation, API integrations, and modern frontend experience using Next.js, Node.js, TypeScript, and cloud infrastructure.
 
