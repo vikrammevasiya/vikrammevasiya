@@ -48,7 +48,7 @@ I specialize in transforming ideas into production-ready products — from archi
 
 ## 🌟 Why Work With Me?
 
-- 9+ years of hands-on software development experience
+- 8+ years of hands-on software development experience
 - 50+ projects delivered for global clients
 - Experience building SaaS products from idea to production
 - Strong focus on clean architecture and maintainable code
